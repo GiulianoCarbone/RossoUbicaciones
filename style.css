@@ -1,0 +1,11 @@
+i {
+    color: #ED6434 ;
+  }
+ 
+ .carousel-control-prev-icon, .carousel-control-next-icon {
+    filter: invert(108%);
+  }
+
+  i:hover {
+    color: #263067;
+  }
